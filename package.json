@@ -16,8 +16,5 @@
     "url": "https://github.com/IshmametovRuslan/edu_nodejs/issues"
   },
   "homepage": "https://github.com/IshmametovRuslan/edu_nodejs#readme",
-  "description": "",
-  "dependencies": {
-    "cowsay": "^1.6.0"
-  }
+  "description": ""
 }
