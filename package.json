@@ -1,0 +1,23 @@
+{
+  "name": "edu_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IshmametovRuslan/edu_nodejs.git"
+  },
+  "author": "Ishmametov Ruslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IshmametovRuslan/edu_nodejs/issues"
+  },
+  "homepage": "https://github.com/IshmametovRuslan/edu_nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
