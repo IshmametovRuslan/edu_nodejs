@@ -16,5 +16,8 @@
     "url": "https://github.com/IshmametovRuslan/edu_nodejs/issues"
   },
   "homepage": "https://github.com/IshmametovRuslan/edu_nodejs#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.1"
+  }
 }
