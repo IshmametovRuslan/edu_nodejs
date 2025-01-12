@@ -6,6 +6,7 @@ const router = Router()
 const twitSerwise = new TwitService
 
 router.post('/', (req, res) => {
+   
     if (!req.body?.text?.length) {
         return res.status(400).json({ message: 'Message is required'})
     }
